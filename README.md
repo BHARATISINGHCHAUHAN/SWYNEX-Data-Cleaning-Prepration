@@ -1,168 +1,91 @@
-# \# Customer Churn Data Cleaning | Microsoft Excel
+# Customer Churn Data Cleaning | Microsoft Excel
 
-# 
+## 📌 Project Overview
 
-# \## 📌 Project Overview
+As part of my internship at **SWYNEX Technologies**, I completed Task 1, focused on **Data Cleaning using Microsoft Excel**.
 
-# 
+For this project, I selected a public **Customer Churn Modeling dataset** from Kaggle containing approximately 10,000 rows. The objective was to inspect the raw dataset, identify potential data quality issues, and prepare a clean and structured dataset using Microsoft Excel.
 
-# As part of my internship at \*\*SWNYX Technologies\*\*, I completed my first task focused on \*\*Data Cleaning using Microsoft Excel\*\*.
+This project demonstrates the importance of data cleaning and data preparation before performing further analysis.
 
-# 
+## 🎯 Project Objectives
 
-# For this project, I selected a public \*\*Bank Customer Churn dataset\*\* from Kaggle containing approximately 10,000 rows. The objective was to inspect the raw dataset, identify data quality issues, and prepare a clean and structured dataset for further analysis.
+- Understand the structure and quality of a real-world dataset.
+- Identify and remove duplicate records.
+- Check for blank cells and missing values.
+- Perform data validation and consistency checks.
+- Review unused, irrelevant, or unexpected values.
+- Convert the dataset into an Excel Table.
+- Prepare a clean dataset for future data analysis.
 
-# 
+## 🛠️ Tools & Technologies
 
-# \## 🎯 Project Objectives
+- Microsoft Excel
+- CSV File Handling
+- Data Cleaning
+- Duplicate Removal
+- Blank Cell and Missing Value Checks
+- Data Validation
+- Data Quality Assessment
 
-# 
+## 📂 Repository Files
 
-# \- Understand the structure and quality of a real-world dataset.
+This repository contains the following two files:
 
-# \- Identify and remove duplicate records.
+| File Name | Description |
+|---|---|
+| `Customer Churn Modeling.csv` | Original raw Customer Churn Modeling dataset downloaded from Kaggle. |
+| `Customer Churn Modeling.xlsx` | Cleaned dataset after data inspection and cleaning using Microsoft Excel. |
 
-# \- Check for blank cells and missing values.
+## 🧹 Data Cleaning Process
 
-# \- Validate data entries and review inconsistent or unused values.
+The following steps were performed using Microsoft Excel:
 
-# \- Convert the dataset into an Excel Table for better data management.
+1. **Data Inspection:** Reviewed the dataset structure, columns, and approximately 10,000 records.
+2. **Convert Data into an Excel Table:** Converted the dataset into a structured Excel Table for easier sorting, filtering, and data management.
+3. **Duplicate Removal:** Checked for duplicate records and removed duplicates where identified.
+4. **Blank Cell Check:** Inspected the dataset for blank cells.
+5. **Missing Value Check:** Checked for missing or null values and handled them where necessary.
+6. **Data Validation:** Reviewed data entries for validity and consistency.
+7. **Unused and Inconsistent Values Check:** Reviewed unexpected, irrelevant, or inconsistent values where applicable.
+8. **Final Data Quality Check:** Reviewed the cleaned dataset and saved the prepared data as an Excel workbook.
 
-# \- Prepare a clean dataset for future analysis.
+## 📊 Dataset Information
 
-# 
+- **Dataset Name:** Customer Churn Modeling
+- **Dataset Source:** Kaggle
+- **Approximate Records:** 10,000 rows
+- **Original File:** `Customer Churn Modeling.csv`
+- **Cleaned File:** `Customer Churn Modeling.xlsx`
+- **Original Format:** CSV
+- **Cleaned Format:** Excel Workbook (.xlsx)
+- **Tool Used:** Microsoft Excel
+- **Internship Organization:** SWYNEX Technologies
+- **Internship Task:** Task 1 – Data Cleaning
 
-# \## 🛠️ Tools \& Technologies
+## 💡 Key Learnings
 
-# 
+Through this project, I gained practical experience in:
 
-# \- \*\*Microsoft Excel\*\*
+- Understanding the importance of data quality in data analytics.
+- Working with raw CSV datasets in Microsoft Excel.
+- Identifying duplicate records and checking missing values.
+- Performing data validation and consistency checks.
+- Organizing data using Excel Tables.
+- Preparing clean and structured datasets for further analysis.
 
-# \- Excel Tables
+## 🚀 Project Outcome
 
-# \- Data Cleaning
+Successfully completed Task 1 of my internship at **SWYNEX Technologies** by inspecting and cleaning a public Customer Churn Modeling dataset using Microsoft Excel.
 
-# \- Duplicate Removal
+This project strengthened my understanding of the data cleaning process, an essential first step in the data analytics workflow.
 
-# \- Blank Cell \& Missing Value Checks
+## 👩‍💻 Author
 
-# \- Data Validation
+**Bharati Singh Chauhan**
 
-# \- Data Quality Checks
+Aspiring Data Analyst | Microsoft Excel | SQL | Power BI
 
-# 
+---
 
-# \## 📂 Repository Files
-
-# 
-
-# This repository contains two Excel files:
-
-# 
-
-# | File Name | Description |
-
-# |---|---|
-
-# | `Customer Churn Modeling.xlsx` | Original dataset containing the raw customer churn data. |
-
-# | `Customer Clean Churn Modeling.xlsx` | Cleaned dataset after performing data cleaning and quality checks. |
-
-# 
-
-# \*Note: The file names above are suggested naming conventions. Use the exact names of your uploaded files if they differ.\*
-
-# 
-
-# \## 🧹 Data Cleaning Process
-
-# 
-
-# The following steps were performed as part of the data cleaning task:
-
-# 
-
-# 1\. \*\*Data Inspection:\*\* Reviewed the dataset structure, columns, and approximately 10,000 records.
-
-# 2\. \*\*Convert Data into an Excel Table:\*\* Structured the dataset as an Excel Table to make filtering, sorting, and data management easier.
-
-# 3\. \*\*Duplicate Removal:\*\* Checked for duplicate records and removed duplicates where identified.
-
-# 4\. \*\*Blank Cell Checks:\*\* Inspected the dataset for blank cells and missing values.
-
-# 5\. \*\*Missing Value Checks:\*\* Reviewed missing or null values and handled them where necessary.
-
-# 6\. \*\*Data Validation:\*\* Checked data entries for validity and consistency.
-
-# 7\. \*\*Unused and Inconsistent Values:\*\* Reviewed irrelevant, unexpected, or inconsistent values where applicable.
-
-# 8\. \*\*Final Data Quality Check:\*\* Reviewed the cleaned dataset to ensure it was organized and ready for further analysis.
-
-# 
-
-# \## 📊 Dataset Information
-
-# 
-
-# \- \*\*Dataset Type:\*\* Bank Customer Churn
-
-# \- \*\*Source:\*\* Public dataset from Kaggle
-
-# \- \*\*Approximate Records:\*\* 10,000 rows
-
-# \- \*\*Tool Used:\*\* Microsoft Excel
-
-# \- \*\*Task:\*\* Data Cleaning
-
-# \- \*\*Internship Organization:\*\* SWNYX Technologies
-
-# 
-
-# \## 💡 Key Learnings
-
-# 
-
-# Through this task, I gained practical experience in:
-
-# 
-
-# \- Understanding the importance of data quality before analysis.
-
-# \- Identifying duplicates, blanks, and missing values.
-
-# \- Using Excel Tables to organize structured data.
-
-# \- Performing initial data validation and quality checks.
-
-# \- Preparing raw data for future data analysis and visualization.
-
-# 
-
-# \## 🚀 Project Outcome
-
-# 
-
-# Successfully completed the initial data cleaning task by inspecting and preparing a public customer churn dataset in Microsoft Excel. This task strengthened my understanding of the data preparation stage of the data analytics workflow.
-
-# 
-
-# \## 👩‍💻 Author
-
-# 
-
-# \*\*Bharati Singh Chauhan\*\*
-
-# 
-
-# Aspiring Data Analyst | Microsoft Excel | SQL | Power BI
-
-# 
-
-# \---
-
-# 
-
-# ⭐ If you find this project useful, feel free to explore the repository!
-
-
-
+⭐ Thank you for visiting my repository!
